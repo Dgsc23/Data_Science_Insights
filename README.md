@@ -54,7 +54,7 @@ The Python files contain pseudo-code representations of proprietary systems deve
 ## 🔗 More Projects
 For my complete portfolio including 10+ production AI/ML projects, visit:
 - [Main Portfolio](https://dgsc23.github.io/data-science-health-ai-portfolio/)
-- [LinkedIn](https://linkedin.com/in/davidgramlingphd)
+- [LinkedIn]([https://linkedin.com/in/davidgramlingphd](https://www.linkedin.com/in/david-gramling-phd))
 
 ---
 
